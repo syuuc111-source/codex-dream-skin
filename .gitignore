@@ -1,0 +1,17 @@
+# User-local files and runtime artifacts
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+outputs/
+.deps/
+.local/
+*.log
+.DS_Store
+Thumbs.db

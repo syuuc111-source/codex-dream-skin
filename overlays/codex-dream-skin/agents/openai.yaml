@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-dream-skin（Codex 梦幻皮肤）"
+  short_description: "应用、验证和恢复 Windows Codex 桌面主题与整窗背景皮肤"
+  default_prompt: "使用 $codex-dream-skin 为 Codex 桌面端应用、验证、更新或恢复皮肤，请用中文说明操作与结果。"
